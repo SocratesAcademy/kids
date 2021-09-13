@@ -64,17 +64,3 @@ https://baike.baidu.com/item/%E7%A7%92%E6%87%82%E5%AE%9E%E9%AA%8C%E5%AE%A4/22638
 
 “秒懂实验室”是百度百科2018年推出的的大型少儿科普实验短视频栏目。是秒懂百科与高校合作共建的科学实验视频项目。它由专业的团队制作，由专业的教师认证，以轻松的短视频的形式增强科学、科普的表现力，真正的实现了『用科技让复杂的世界变简单』。
 
-
-
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. However, it's quite annoying to repeat such workload and make it hard for people do
-version control via git for when there are generated HTML files to be staged in and out.
-
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repository.
-
-[1]: https://pages.github.com
