@@ -30,6 +30,11 @@ layout: post
 
 ![image](https://user-images.githubusercontent.com/543384/133045251-9100371c-393a-4f88-8bdb-ab0ff348c1df.png)
 
+事实上，拉力还提供了一个克服重力的向上的力量，使得飞机🛫飞了起来！
+
+![image](https://user-images.githubusercontent.com/543384/133045932-7b1c3d0b-3dea-4b2a-a542-6ec3b90f8263.png)
+
+
 螺旋星系
 
 ![image](https://user-images.githubusercontent.com/543384/133018518-3de4b0cd-03b0-4451-9699-d56997a8da14.png)
