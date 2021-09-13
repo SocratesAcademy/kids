@@ -50,7 +50,7 @@ layout: post
 
 [https://haokan.baidu.com/v?vid=2806361814659953601&pd=pcshare](https://haokan.baidu.com/v?vid=2806361814659953601&pd=pcshare)
 
-<iframe frameborder="0" src="https://user-images.githubusercontent.com/543384/133028914-eb1dee63-2b14-4235-85d6-6de215dc3b0a.mp4" autoplay = "false" allowFullScreen="true" width = "800px" height = "600px"></iframe>
+<iframe frameborder="0" src="https://user-images.githubusercontent.com/543384/133028914-eb1dee63-2b14-4235-85d6-6de215dc3b0a.mp4?rel=0&amp&autoplay=0" autoplay = "false" allowFullScreen="true" width = "800px" height = "600px"></iframe>
 
 
 https://user-images.githubusercontent.com/543384/133028914-eb1dee63-2b14-4235-85d6-6de215dc3b0a.mp4
