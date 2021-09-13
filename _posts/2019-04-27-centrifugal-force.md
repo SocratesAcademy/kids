@@ -65,4 +65,4 @@ https://baike.baidu.com/item/%E7%A7%92%E6%87%82%E5%AE%9E%E9%AA%8C%E5%AE%A4/22638
 “秒懂实验室”是百度百科2018年推出的的大型少儿科普实验短视频栏目。是秒懂百科与高校合作共建的科学实验视频项目。它由专业的团队制作，由专业的教师认证，以轻松的短视频的形式增强科学、科普的表现力，真正的实现了『用科技让复杂的世界变简单』。
 
 
-<iframe src="//player.bilibili.com/player.html?aid=31735278&bvid=BV19W411r72A&cid=55499567&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=31735278&bvid=BV19W411r72A&cid=55499567&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width = "800px" height = "600px"> </iframe>
