@@ -6,10 +6,21 @@ category: Jekyll
 layout: post
 ---
 
+有一次，一个朋友给米粒和米果两个小朋友各买了一个玩具。
 
-离心力 http://baike.baidu.com/l/UbL8pYLa
 
-离心力（centrifugal force）是一种**虚拟力**，是一种**惯性的体现**，_它使旋转的物体远离它的旋转中心_。
+![image](https://user-images.githubusercontent.com/543384/133027456-dca8e1b3-9c8b-4c30-b2ab-2293235a211c.png)
+
+
+> 创意旋转木马 玩具糖果 网红 手摇发光 益智学习 儿童休闲 糖果小零食品
+
+![image](https://user-images.githubusercontent.com/543384/133027809-704c2b26-b2ba-49ae-8b11-f99d4e5e48d5.png)
+
+问题：为什么`小飞机`会向上↑飞起来？
+
+
+
+[离心力](http://baike.baidu.com/l/UbL8pYLa)（centrifugal force）是一种**虚拟力**，是一种**惯性的体现**，_它使旋转的物体远离它的旋转中心_。
 
 在牛顿力学里，它曾被用于表述两个不同的概念：在一个非惯性参考系下观测到的一种惯性力，向心力的平衡。在拉格朗日力学下，离心力有时被用来描述在某个广义坐标下的广义力。
 
@@ -29,7 +40,7 @@ layout: post
 
 旋转飞椅-视频讲解与演示  https://v.qq.com/x/page/t0513ecw957.html
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=t0513ecw957" allowFullScreen="true"></iframe>
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=t0513ecw957" allowFullScreen="true" width = "800px"></iframe>
 
 ## 秒懂实验室之环形赛道
 
