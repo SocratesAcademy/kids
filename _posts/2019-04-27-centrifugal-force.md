@@ -48,7 +48,7 @@ layout: post
 
 [https://haokan.baidu.com/v?vid=2806361814659953601&pd=pcshare](https://haokan.baidu.com/v?vid=2806361814659953601&pd=pcshare)
 
-<iframe frameborder="0" src="https://vd3.bdstatic.com/mda-iism924hp3mtnh74/sc/mda-iism924hp3mtnh74.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1631512387-0-0-a6473dcbb758bb7e819fd34bb37ff2ba&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=" allowFullScreen="true" width = "800px" height = "600px"></iframe>
+<iframe frameborder="0" src="https://vd3.bdstatic.com/mda-iism924hp3mtnh74/sc/mda-iism924hp3mtnh74.mp4" allowFullScreen="true" width = "800px" height = "600px"></iframe>
 
 
 
