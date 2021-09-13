@@ -48,8 +48,10 @@ layout: post
 
 [https://haokan.baidu.com/v?vid=2806361814659953601&pd=pcshare](https://haokan.baidu.com/v?vid=2806361814659953601&pd=pcshare)
 
-<iframe frameborder="0" src="https://vd3.bdstatic.com/mda-iism924hp3mtnh74/sc/mda-iism924hp3mtnh74.mp4" allowFullScreen="true" width = "800px" height = "600px"></iframe>
+<iframe frameborder="0" src="https://user-images.githubusercontent.com/543384/133028914-eb1dee63-2b14-4235-85d6-6de215dc3b0a.mp4" allowFullScreen="true" width = "800px" height = "600px"></iframe>
 
+
+https://user-images.githubusercontent.com/543384/133028914-eb1dee63-2b14-4235-85d6-6de215dc3b0a.mp4
 
 
 ## 秒懂实验室
