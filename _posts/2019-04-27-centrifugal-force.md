@@ -36,7 +36,7 @@ layout: post
 
 ![image](https://user-images.githubusercontent.com/543384/133018532-d8217d86-b788-4203-8504-4e7f80013823.png)
 
-## 旋转飞椅
+### 旋转飞椅
 
 ![image](https://user-images.githubusercontent.com/543384/133018550-ab147ea2-ffa4-4c8a-bad2-6efda7b1cbbf.png)
 
@@ -44,7 +44,7 @@ layout: post
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=t0513ecw957" allowFullScreen="true" width = "800px" height = "600px"></iframe>
 
-## 秒懂实验室之环形赛道
+### 动手实验：环形赛道
 
 ![image](https://user-images.githubusercontent.com/543384/133018406-883a01e7-1900-40eb-af0f-27ed368401c3.png)
 
