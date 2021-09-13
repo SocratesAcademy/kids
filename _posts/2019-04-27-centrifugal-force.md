@@ -28,6 +28,8 @@ layout: post
 
 > 在通常语境下，离心力并不是真实存在的力。它的作用只是为了在旋转参考系（非惯性参考系）下，牛顿运动定律依然能够使用。在惯性参考系下是没有离心力的，在非惯性参考系下（如旋转参考系）才需要有惯性力，否则牛顿运动定律不能使用。
 
+![image](https://user-images.githubusercontent.com/543384/133045251-9100371c-393a-4f88-8bdb-ab0ff348c1df.png)
+
 螺旋星系
 
 ![image](https://user-images.githubusercontent.com/543384/133018518-3de4b0cd-03b0-4451-9699-d56997a8da14.png)
