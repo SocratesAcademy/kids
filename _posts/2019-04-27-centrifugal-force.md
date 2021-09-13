@@ -40,7 +40,7 @@ layout: post
 
 旋转飞椅-视频讲解与演示  https://v.qq.com/x/page/t0513ecw957.html
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=t0513ecw957" allowFullScreen="true" width = "800px"></iframe>
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=t0513ecw957" allowFullScreen="true" width = "800px" height = "600px"></iframe>
 
 ## 秒懂实验室之环形赛道
 
